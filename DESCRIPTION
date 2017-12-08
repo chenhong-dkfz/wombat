@@ -1,0 +1,9 @@
+Package: wombat
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Chen Hong
+#Maintainer: person("Hadley", "Wickham", , "hadley@rstudio.com", c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+License: GPL-3
+LazyData: TRUE
